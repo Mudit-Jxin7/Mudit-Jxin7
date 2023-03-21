@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Mudit-Jxin7/Mudit-Jxin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Full Stack Web Developer and UI Designer
+
+🎩 I am Mudit Jain , A software developer from New Delhi , India , pursuing my bachelor in **Computer Science & Engineering**.
+
+🖥️ I enjoy doing **web development** and am really enthusiast about learning new technology . In 2022 I learnt **React** , **TypeScript** , **Next.js** and a bit about **Three.js** . I also got started with **open source contribution**.
+
+🎸 Outside the world of tech too . I love pushing myself to develop new skills ranging from **guitar** , **sketching** , **football(or soccer if you are from USA)** and **reading**.
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,react,next,bootstrap,sass,tailwind,materialui,nodejs,express,figma,solidity,mysql)](https://skillicons.dev)
