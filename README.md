@@ -14,4 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,react,next,bootstrap,sass,tailwind,materialui,nodejs,express,figma,solidity,mysql)](https://skillicons.dev)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudit-Jxin7&theme=shades-of-purple&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mudit-Jxin7&show_icons=true&locale=en" alt="muditjain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudit-Jxin7&" alt="muditjain" /></p>
