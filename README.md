@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="The Matrix" width="90%" height="80%" src="https://media.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" >
+</p>
 
 # Hi There! 👋
 
