@@ -1,18 +1,8 @@
-<p align="center">
-  <img alt="The Matrix" width="90%" height="80%" src="https://media.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" >
-</p>
-
 # Hi There! 👋
 
+🎩 I am Mudit Jain , pursuing my Btech in Computer Science from **Netaji Subhash University Of Technology** , Delhi.
 
-
-## Full Stack Web Developer 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveshsaini&label=Profile%20views&color=0e75b6&style=flat" alt="parveshsaini" /> </p>
-
-🎩 I am Mudit Jain , A software developer from New Delhi , India , pursuing my bachelor in **Computer Science & Engineering**.
-
-🖥️ I enjoy doing **web development** and am really enthusiast about learning new technology . In 2022 I learnt **React** , **TypeScript** , **Next.js** and a bit about **Three.js** . I also got started with **open source contribution**. Currently learning Backend Development.
+🖥️ I enjoy doing **web development** , solving **DSA Problems** and am really enthusiast about learning new technology . I learnt **React** , **TypeScript** , **Next.js** and **Three.js** . I also got started with **open source contribution**. Currently learning Backend Development.
 
 🎸 Outside the world of tech too . I love pushing myself to develop new skills ranging from **guitar** , **sketching** , **football(or soccer if you are from USA)** and **reading**.
 ## 🛠 Skills
