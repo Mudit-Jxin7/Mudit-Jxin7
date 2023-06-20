@@ -6,7 +6,7 @@
 
 🎸 Outside the world of tech too . I love pushing myself to develop new skills ranging from **guitar** , **sketching** , **football(or soccer if you are from USA)** and **reading**.
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,react,next,bootstrap,sass,tailwind,materialui,nodejs,express,figma,solidity,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,react,next,bootstrap,sass,tailwind,materialui,nodejs,express,figma,mongodb,mysql)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
