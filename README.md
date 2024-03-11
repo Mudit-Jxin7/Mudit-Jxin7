@@ -6,10 +6,7 @@
 
 #### 🌐 I’m looking - To collaborate on open source projects.
 
-#### 🎯 I’m trying - To build up my interpersonal skill.
-
 #### 📫 How to reach me - **muditert34@gmail.com**
-
 
 <br />
 
