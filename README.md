@@ -13,9 +13,9 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://x.com/MUDITJA18262556" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mudit-Jxin7/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mudit-Jxin7" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mudit-jain-77464325b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Mudit-Jxin7/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mudit-Jxin7" height="30" width="40" /></a>
+  Feel free to reach out to me via email at <a href="mailto:muditert34@gmail.com">muditert34@gmail.com</a>.
 </p>
+
 <br />
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
