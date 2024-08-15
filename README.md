@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 **Few things about me**
-- 🔭 I am learning **Web3**
+- 🔭 I am learning **Go**
 
 - 🤝 I’m looking to collaborate on **Next.js projects**
 
